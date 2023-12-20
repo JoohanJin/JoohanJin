@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 I am Joe, a Computer Engineering Student at HKU
+***
+I am currently working on:
+- 🔭 I’m currently working on bitcoin auto trading bot
+- 🌱 I’m currently learning (actually revising) [data structure and algorithm](https://github.com/JoohanJin/DSA) and [machine learning](https://github.com/JoohanJin/AI_PRAC.git), kinda just started
+- - 📫 How to reach me: **vkfksskan1234@gmail.com**
 <!--
 **JoohanJin/JoohanJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
