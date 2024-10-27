@@ -1,4 +1,4 @@
-## Hi there 👋 I am Joe, a Computer Engineering Student at HKU
+## Hi there 👋 I am Joe, a Computer Engineering Student @ The University of Hong Kong.
 
 - 🔭 I’m currently working on [Crypto-Currency Auto Trading Bot](https://github.com/JoohanJin/AutoCryptoTrading)!
 - 🌱 I’m currently learning (actually revising) [data structure and algorithm](https://github.com/JoohanJin/DSA) and [deep learning and machine learning](https://github.com/JoohanJin/ML_DL).
