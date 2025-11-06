@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Crypto-Currency Auto Trading Bot](https://github.com/JoohanJin/AutoCryptoTrading)!
 - 🌱 I’m currently learning (actually revising) [data structure and algorithm](https://github.com/JoohanJin/DSA) and [deep learning and machine learning](https://github.com/JoohanJin/ML_DL).
-- 📫 How to reach me: **vkfksskan1234@gmail.com**
+- 📫 How to reach me: **joejin.dev@connect.hku.hk**
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) My Leetcode Profile is: [Joohan Jin](https://leetcode.com/u/Joeah_s/)!
 <!--
 **JoohanJin/JoohanJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
