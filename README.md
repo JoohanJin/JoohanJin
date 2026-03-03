@@ -1,6 +1,6 @@
 ## Hi there! I am Joe, a Computer Engineering Student @ The University of Hong Kong.
 
-- 🔭 I’m currently working on [Crypto-Currency Auto Trading Bot](https://github.com/JoohanJin/AutoCryptoTrading)!
+- 🔭 I’m currently working on [Crypto-Currency Auto Trading Bot](https://github.com/JoohanJin/AutoCryptoTrading) and [Bao-Hypervisor-Extension-for-MCS-Support](https://github.com/JoohanJin/bao-hypervisor-extended)!
 - 🌱 I’m currently learning (actually revising) [data structure and algorithm](https://github.com/JoohanJin/DSA) and [deep learning and machine learning](https://github.com/JoohanJin/ML_DL).
 - 📫 How to reach me: **joejin.dev@connect.hku.hk**
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) My Leetcode Profile is: [Joohan Jin](https://leetcode.com/u/Joeah_s/)!
