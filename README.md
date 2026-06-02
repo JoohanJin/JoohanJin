@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Crypto-Currency Auto Trading Bot](https://github.com/JoohanJin/AutoCryptoTrading) and [Bao-Hypervisor-Extension-for-MCS-Support](https://github.com/JoohanJin/bao-hypervisor-extended)!
 - 🌱 I’m currently learning (actually revising) [data structure and algorithm](https://github.com/JoohanJin/DSA) and [deep learning and machine learning](https://github.com/JoohanJin/ML_DL).
 - 📫 How to reach me: **joejin.dev@connect.hku.hk**
-- ![LeetCode](https://cdn.simpleicons.org/leetcode/FFA116) My Leetcode Profile is: [Joohan Jin](https://leetcode.com/u/Joeah_s/)!
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="5" height="5" alt="LeetCode" /> My Leetcode Profile is: [Joohan Jin](https://leetcode.com/u/Joeah_s/)!
 <!--
 **JoohanJin/JoohanJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
